@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Belajar_ViewBinding</string>
+    <string name="Text1">Lagi Belajar View Binding</string>
+    <string name="Button1">Sentuh Aku Please!</string>
+    <string name="Text2">Apa Coba?</string>
+    <string name="Button2">Tutup aja deh</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
